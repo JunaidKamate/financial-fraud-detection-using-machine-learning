@@ -41,10 +41,7 @@ Due to size, the dataset is not uploaded here. Please download directly from Kag
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Streamlit, Joblib  
 
 ---
+👤 Author
 
-## 🚀 How to Run the Project  
+Junaid Kamate
 
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/JunaidKamate/financial-fraud-detection-using-machine-learning.git
-cd financial-fraud-detection-using-machine-learning
