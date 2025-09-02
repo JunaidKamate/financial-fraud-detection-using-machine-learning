@@ -41,7 +41,7 @@ Due to size, the dataset is not uploaded here. Please download directly from Kag
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Streamlit, Joblib  
 
 ---
-👤 Author
+## 👤 Author
 
 Junaid Kamate
 
